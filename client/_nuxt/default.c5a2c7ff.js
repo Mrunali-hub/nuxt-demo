@@ -1,0 +1,1 @@
+import{_ as t,c as s,B as a,a as o,o as c}from"./entry.ab66d1b4.js";const l={},n={class:"DefaultLayout"},r=o("p",null,"This is default layout template",-1);function _(e,d){return c(),s("div",n,[r,a(e.$slots,"default")])}const u=t(l,[["render",_]]);export{u as default};

@@ -1,0 +1,1 @@
+import{u as s,c as t,t as a,q as o,o as r}from"./entry.ab66d1b4.js";const p={__name:"[slug]",setup(u){const e=s();return(n,c)=>(r(),t("h1",null,"Example:"+a(o(e).params.slug),1))}};export{p as default};

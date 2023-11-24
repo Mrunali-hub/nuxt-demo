@@ -1,0 +1,1 @@
+{"version":3,"file":"_slug_-ecb0df73.js","sources":["../../../../pages/categories/[slug].vue"],"sourcesContent":["<script setup>\r\n\r\nconst route=useRoute();\r\n</script>\r\n<template>\r\n    <h1>Example:{{ route.params.slug }}</h1>\r\n</template>"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;AAEA,UAAM,QAAM,SAAQ;;;;;;;;;;;;"}

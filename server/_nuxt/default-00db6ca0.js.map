@@ -1,0 +1,1 @@
+{"version":3,"file":"default-00db6ca0.js","sources":["../../../../layouts/default.vue"],"sourcesContent":["\r\n<template>\r\n    <div class=\"DefaultLayout\">\r\n        <p>This is default layout template</p>\r\n        <slot />\r\n    </div>\r\n</template>"],"names":[],"mappings":";;;;;;;;;;;;;;;;;AAES,SAAA,eAAA,MAAA,OAAA,SAAA,QAAqB;;;;;;;;;;;;"}
