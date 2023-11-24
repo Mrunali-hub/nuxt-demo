@@ -20,7 +20,7 @@ export default defineNuxtConfig({
     ],
   },
   router: {
-    base: '/nuxt-demo/', // Replace 'repository-name' with your GitHub repository name
+    base: '/', // Replace 'repository-name' with your GitHub repository name
   },
   
 })
